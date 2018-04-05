@@ -86,15 +86,15 @@
 }
 @keyframes loading-text {
   0% {
-    content: "Loading";
+    content: "Hi";
   }
   25% {
-    content: "Loading.";
+    content: "Hi.";
   }
   50% {
-    content: "Loading..";
+    content: "Hi..";
   }
   75% {
-    content: "Loading...";
+    content: "Hi...";
   }
 }
